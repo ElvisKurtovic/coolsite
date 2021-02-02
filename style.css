@@ -1,0 +1,73 @@
+.title{
+    color: white;
+}
+
+.main-title{
+    border: solid black;
+    margin: auto;
+    background-color: blue;
+    text-align: center;
+}
+
+.second-title{
+    text-align: center;
+    font-weight: normal;
+}
+
+.paragraph{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.divider-2{
+    background-color: blue;
+    margin: auto;
+    margin-top: 25%;
+    border: solid black;
+    height: 7vh;
+    
+}
+
+.divider{
+    background-color: gray;
+    padding: 10px;
+    width: 60%;
+    margin: auto;
+    margin-top: 5%;
+}
+
+.image-here{
+    color: white;
+    background-color: blue;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 1%;
+}
+
+.description{
+    text-align: left;
+    margin: auto;
+    padding-top: 1%;
+    font-size: small;
+}
+
+.rightside{
+    width: 25%;
+    position: absolute;
+    top: 15%;
+    right: 10%;
+}
+
+.main-body{
+    margin-right: 25%;
+}
+
+.alt-title{
+    margin-bottom: 1%;
+    font-size: large;
+}
